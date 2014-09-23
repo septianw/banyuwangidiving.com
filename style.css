@@ -25,13 +25,18 @@ html {
   background-color: rgba(255,255,255,.3);
   font-size: 15px;
   position: relative;
-  top: 38%;
+  top: 27%;
   left: 70%;
   text-align: left;
   padding: 8px;
 }
 
 img#aranea {
-  width: 133px;
+  width: 153px;
+  margin: 4px 3px 0 0;
+}
+
+img#mac {
+  width: 89px;
   margin: 4px 3px 0 0;
 }
